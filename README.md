@@ -1,6 +1,7 @@
 # Documentación para Clientes
 
-Bienvenido a esta **Documentación**, un repositorio de guías creado por **Julibe De Salvador**, diseñador gráfico y desarrollador de experiencias digitales, para acompañar a sus clientes en el camino hacia proyectos exitosos. Aquí encontrarás explicaciones breves en español latino que combinan claridad técnica con un toque creativo, para que aprender sea inspirador (y hasta un poco divertido).
+Bienvenido a esta **Documentación**, un repositorio de guías creado por **Julibe De Salvador**, para acompañar a sus clientes en el camino hacia proyectos exitosos.
+Aquí encontrarás explicaciones breves en español latino que combinan claridad técnica con un toque creativo, para que aprender sea inspirador.
 
 ## ¿Qué encontrarás aquí?
 
